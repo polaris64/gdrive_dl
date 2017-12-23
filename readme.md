@@ -31,7 +31,7 @@ python gdrive_dl.py -h
     import gdrive_dl
     gdrive_dl.download_file('<url>', file_name='file.dat')
 
-Replace <url> with the shareable link.  The `file\_name` argument is optional; if not set then the name of the file on Google Drive will be used.
+Replace <url> with the shareable link.  The `file_name` argument is optional; if not set then the name of the file on Google Drive will be used.
 
 
 ## Requirements
